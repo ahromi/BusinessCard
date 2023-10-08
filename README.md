@@ -1,3 +1,4 @@
 # BusinessCard
 Practice: Compose Basics
-![Alt text](![img.png](img.png) | width=300)
+================================================================================
+<img src="img.png" alt="image" style="width:300px;height:auto;">
